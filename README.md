@@ -14,4 +14,4 @@
 7. [Python/bash] Automated media prep/file delivery outside of apac timezone.
 
 ### Others
-1. UAT for VFX domain: Media Delivery Suite, Shotgrid delivery, VFX Media Review, Slate Manager, etc.
+1. User Acceptance Testing (UAT): Media Delivery Suite, Shotgrid delivery, VFX Media Review, Slate Manager, etc.
